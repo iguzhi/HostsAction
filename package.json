@@ -1,0 +1,34 @@
+{
+  "name": "hostsaction",
+  "version": "0.0.1",
+  "description": "host action mock",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chrome-remote-interface": "^0.28.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iguzhi/HostsAction.git"
+  },
+  "keywords": [
+    "hosts",
+    "mock"
+  ],
+  "author": "iguzhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iguzhi/HostsAction/issues"
+  },
+  "homepage": "https://github.com/iguzhi/HostsAction#readme"
+}
